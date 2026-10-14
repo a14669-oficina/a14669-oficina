@@ -55,16 +55,6 @@ console.log("Welcome to my world! ⚡");
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TEU_USERNAME/TEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
