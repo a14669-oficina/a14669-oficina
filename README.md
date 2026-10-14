@@ -49,7 +49,7 @@ console.log("Welcome to my world! ⚡");
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=TEU_USERNAME&hide_border=true&background=050816&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=Dinis&hide_border=true&background=050816&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
