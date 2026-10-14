@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:5429FF,100:00E5FF&height=220&section=header&text=Dinis.exe&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20digital%20world&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:5429FF,100:00E5FF&height=220&section=header&text=Dinis&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20digital%20world&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Dinis+%F0%9F%91%8B;Future+Developer+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1;Always+learning.+Always+building." alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinis)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/ALWAYS-LEARNING-8b5cf6?style=for-the-badge)
 
@@ -43,9 +43,9 @@ console.log("Welcome to my world! ⚡");
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF&ring_color=00E5FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinis&show_icons=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF&ring_color=00E5FF" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinis&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" />
 
 <br/>
 
