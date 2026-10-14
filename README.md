@@ -39,20 +39,6 @@ console.log("Welcome to my world! ⚡");
 
 </div>
 
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinis&show_icons=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF&ring_color=00E5FF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinis&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Dinis&hide_border=true&background=050816&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
 ---
 
 <div align="center">
